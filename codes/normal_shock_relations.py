@@ -2,7 +2,7 @@
     Date:   09/08/2023
     Author: Martin E. Liza
     File:   normal_shock_relations
-    Def:
+    Def:    Calculate the normal shock relations.
 
     Author		    Date		Revision
     ---------------------------------------------
